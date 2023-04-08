@@ -1,0 +1,12 @@
+# Name of your language
+name: PersonScript
+
+# File extensions that your language uses
+extensions:
+  - pers
+  - per
+  - prs
+
+# The command to run your language
+run:
+  command: python main.pers
